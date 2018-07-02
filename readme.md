@@ -3,7 +3,7 @@ node.js v8.11.3(async-await使えるなら何でも)
 
 # 環境設定
 ## windows環境
-Node.js公式サイト(https://nodejs.org/ja/)より最新LTS版のインストーラーを取得し、インストール。  
+[Node.js公式サイト](https://nodejs.org/ja/)より最新LTS版のインストーラーを取得し、インストール。  
 インストール後、コンソールから npm install -g pm2 コマンドを実行、nodeのプロセスマネージャーをインストール。  
 ## linux環境
 任意の方法でnodeのインストールを実行する。nvmとかnodebrewとか使おう。  
