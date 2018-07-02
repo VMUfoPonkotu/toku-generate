@@ -1,0 +1,14 @@
+{
+    "apps":[{
+        "name": "toku-mining",
+        "script": "./app.js",
+        "args": [],
+        "watch": false,
+        "merge_logs": true,
+        "cwd": "/",
+        "env": {
+            "NODE_PATH": "./",
+            "TIMEOUT": 1000
+        }
+    }]
+}
