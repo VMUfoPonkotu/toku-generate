@@ -1,6 +1,6 @@
 {
     "apps":[{
-        "name": "toku-mining",
+        "name": "toku-generate",
         "script": "./app.js",
         "args": [],
         "watch": false,

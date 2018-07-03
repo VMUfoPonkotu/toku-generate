@@ -3,10 +3,8 @@
 // lib
 const libMani = require('./lib/mani.js');
 
-
-
 // sleepのpromise化
-// util.jsにでも作るべきだが、
+// util.jsにでも作るべきだが、ひとまずここに
 function setTimeoutPromise(wait) {
     return new Promise(function(resolve, reject) {
         setTimeout(resolve, wait);
